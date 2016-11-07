@@ -1,4 +1,15 @@
-body {padding: 70px;}
+body {
+    padding: 70px;
+}
 
-.expressions {padding: 30px;}
-.otherinfo {padding: 20px;}
+.expressions {
+    padding: 30px;
+}
+
+.otherinfo {
+    padding: 20px;
+}
+
+footer {
+    padding: 70px;
+}
